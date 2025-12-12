@@ -1,0 +1,1 @@
+print("uh, duh board hadn't got anywhere to put firmware")
